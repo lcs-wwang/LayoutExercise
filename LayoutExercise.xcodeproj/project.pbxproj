@@ -11,6 +11,7 @@
 		4DF1CB0A27287DB300564CF3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF1CB0927287DB300564CF3 /* ContentView.swift */; };
 		4DF1CB0C27287DB900564CF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DF1CB0B27287DB900564CF3 /* Assets.xcassets */; };
 		4DF1CB0F27287DB900564CF3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DF1CB0E27287DB900564CF3 /* Preview Assets.xcassets */; };
+		4DF1CB172728894000564CF3 /* Exercise 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF1CB162728893F00564CF3 /* Exercise 2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4DF1CB0927287DB300564CF3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4DF1CB0B27287DB900564CF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DF1CB0E27287DB900564CF3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4DF1CB162728893F00564CF3 /* Exercise 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exercise 2.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +56,7 @@
 				4DF1CB0727287DB200564CF3 /* LayoutExerciseApp.swift */,
 				4DF1CB1527287E0C00564CF3 /* Views */,
 				4DF1CB0927287DB300564CF3 /* ContentView.swift */,
-				4DF1CB0B27287DB900564CF3 /* Assets.xcassets */,
+				4DF1CB162728893F00564CF3 /* Exercise 2.swift */,
 				4DF1CB0D27287DB900564CF3 /* Preview Content */,
 			);
 			path = LayoutExercise;
@@ -71,6 +73,7 @@
 		4DF1CB1527287E0C00564CF3 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				4DF1CB0B27287DB900564CF3 /* Assets.xcassets */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				4DF1CB0A27287DB300564CF3 /* ContentView.swift in Sources */,
 				4DF1CB0827287DB200564CF3 /* LayoutExerciseApp.swift in Sources */,
+				4DF1CB172728894000564CF3 /* Exercise 2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
